@@ -1,5 +1,5 @@
 {
-        "name": "Time",
+        "name": "date",
         "type": "date",
         "format": "%-m/%-d/%Y %H:%M:%S"
     }, {
