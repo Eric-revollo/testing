@@ -1,7 +1,6 @@
 # testing
 
 This is a testing test
-This is a second testing
  Further changes
 
 ## Subtitle
