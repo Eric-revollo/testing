@@ -4,7 +4,7 @@ This is a testing test
  Further changes
 
 ## Subtitle
-Lorem ipsum
+
  
  ## Adding Styles
 *This text will be italic*
