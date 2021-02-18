@@ -1,0 +1,3 @@
+///asking info from userAgent
+
+
