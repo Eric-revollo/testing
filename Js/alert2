@@ -1,4 +1,6 @@
 "use scrict";
+
+// This is a test comment
 // This is a comment line above the code.
 let name = 'John';
 let age = 25;
