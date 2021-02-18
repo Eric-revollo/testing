@@ -1,0 +1,18 @@
+"use scrict";
+// This is a comment line above the code.
+let name = 'John';
+let age = 25;
+let message = 'Hello';
+const myBirthday = '18.04.1988';
+let apples = "3";
+let oranges = "2";
+let isGreater = 4>1;
+let counter =2;
+counter++; //add one
+alert(counter);
+
+alert(+apples + +oranges);
+alert(isGreater);
+alert(`Hello, ${name}!`); //Hello John!
+
+
